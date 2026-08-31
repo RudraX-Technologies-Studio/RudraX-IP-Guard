@@ -3,6 +3,16 @@
 *Parent Company:* RudraX Technologies Studio  
 *Founder & Lead Architect:* Rudra Parmar  
 
+<div align="center">
+  <img src="https://i.ibb.co/273hvdy4/parent-Rudra-X-Technologies-Studio-Rudra-X-IP-Guard.png" alt="RudraX IP-Guard Official System Emblem" width="300"/>
+  <p><em>Official Security Architecture Emblem • RudraX Technologies Studio</em></p>
+</div>
+
+---
+
+## Official Visual Identity & Security Insignia
+The visual asset displayed above is the official enterprise seal and visual identifier for **RudraX IP-Guard**. It serves as the recognized security emblem for **RudraX Technologies Studio**, representing unified perimeter defense, proprietary runtime shield integrity, and intellectual property protection across all active repositories and systems.
+
 ---
 
 ## Executive Overview
@@ -30,7 +40,7 @@ To maintain clean-room engineering standards without code or documentation dupli
 For direct security escalations, vulnerability submissions, or corporate licensing:
 
 * **Founder & Lead Architect:** Rudra Parmar (`rudrapurparmar@gmail.com`)
-* **Official Company Contact:** `rudraxtechnologiesstudio@gmail.com`
+* **Official Company Contact:** `helprudraxtechnologiesstudio@gmail.com`
 * **Parent Organization:** RudraX Technologies Studio
 
 ---
